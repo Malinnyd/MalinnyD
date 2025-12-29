@@ -20,4 +20,4 @@ Some of my highlighted projects include:
 I aim to build **data-driven solutions with real-world impact**, particularly in agriculture and agro-industry.
 
 📫 **Let’s connect:**  
-- LinkedIn: (https://www.linkedin.com/in/malinny-debra-03555536b/)
+- LinkedIn(https://www.linkedin.com/in/malinny-debra-03555536b/)
