@@ -1,6 +1,6 @@
 ## Hi, I'm Malinny Debra 👋
 
-I am a **Machine Learning Developer Bootcamp participant at Dicoding** with a technical background and strong interests in **data analytics, machine learning, and agritech**.
+I am a **Machine Learning Bootcamp participant at Dicoding (Graduated)** with a technical background and strong interests in **data analytics, machine learning, and agritech**.
 
 Currently, I am pursuing a **Master’s degree in Agribusiness at Diponegoro University**, while actively developing data-driven and machine learning projects for both academic and practical applications.
 
