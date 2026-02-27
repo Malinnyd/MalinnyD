@@ -1,23 +1,80 @@
-## Hi, I'm Malinny Debra 👋
+Hi, I'm Malinny Debra 👋
 
-I am a **Machine Learning Bootcamp participant at Dicoding (Graduated)** with a technical background and strong interests in **data analytics, machine learning, and agritech**.
+I am a Data Science enthusiast with a strong foundation in machine learning, data analytics, and predictive modeling.
 
-Currently, I am pursuing a **Master’s degree in Agribusiness at Diponegoro University**, while actively developing data-driven and machine learning projects for both academic and practical applications.
+With a technical background and ongoing Master’s study in Agribusiness at Diponegoro University, I combine analytical thinking, statistical understanding, and machine learning skills to transform data into actionable insights.
 
-### 🔍 Interests & Focus
-- Data Analysis & Machine Learning
-- Agritech Decision Support Systems
-- Predictive Modeling & Recommendation Systems
-- Python, Scikit-learn, TensorFlow, Streamlit
+I am passionate about solving real-world problems using data — from business insights to predictive systems — and continuously improving my ability to build scalable and impactful solutions.
 
-### 📂 Projects
-Some of my highlighted projects include:
-- **TUMBUH** – Agritech Machine Learning Decision Support System  
-- Sentiment Analysis on Google Play Store Reviews  
-- Fruit Quality & Shelf-Life Image Classification
+🔍 Areas of Interest
 
-### 🌱 Goal
-I aim to build **data-driven solutions with real-world impact**, particularly in agriculture and agro-industry.
+Data Science & Analytics
 
-📫 **Let’s connect:**  
-- LinkedIn(https://www.linkedin.com/in/malinny-debra-03555536b/)
+Machine Learning & Predictive Modeling
+
+Data Visualization & Insight Extraction
+
+Recommendation Systems
+
+Applied AI Solutions
+
+🛠 Tech Stack
+
+Programming & Data Processing
+
+Python
+
+Pandas, NumPy
+
+Machine Learning & Modeling
+
+Scikit-learn
+
+TensorFlow / Keras
+
+Data Visualization
+
+Matplotlib
+
+Seaborn
+
+Tools & Deployment
+
+Streamlit
+
+Jupyter Notebook
+
+Google Colab
+
+Git & GitHub
+
+📂 Selected Projects
+🌱 TUMBUH – Machine Learning Decision Support System
+
+Developed a predictive modeling system that provides data-driven recommendations using supervised learning techniques.
+
+📊 Sentiment Analysis on Google Play Store Reviews
+
+Built an NLP classification pipeline using TF-IDF and machine learning algorithms to analyze customer sentiment patterns.
+
+🍎 Fruit Quality Image Classification
+
+Implemented a CNN-based deep learning model to classify image data and evaluate product quality.
+
+📈 Currently Developing
+
+End-to-end machine learning workflows
+
+Feature engineering & model evaluation techniques
+
+Data storytelling & visualization skills
+
+Production-ready ML model deployment
+
+🎯 Career Objective
+
+To grow as a Data Scientist who can bridge data, business understanding, and machine learning to generate measurable impact across industries.
+
+📫 Let’s connect:
+LinkedIn:
+https://www.linkedin.com/in/malinny-debra-03555536b/
