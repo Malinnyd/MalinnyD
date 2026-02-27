@@ -6,7 +6,7 @@ With a technical background and ongoing Master’s study in Agribusiness at Dipo
 
 I am passionate about solving real-world problems using data — from business insights to predictive systems — and continuously improving my ability to build scalable and impactful solutions.
 
-🔍 Areas of Interest
+**🔍 Areas of Interest**
 
 Data Science & Analytics
 
@@ -18,7 +18,8 @@ Recommendation Systems
 
 Applied AI Solutions
 
-🛠 Tech Stack
+
+**🛠 Tech Stack**
 
 **Programming & Data Processing**
 
@@ -34,7 +35,7 @@ Scikit-learn
 
 TensorFlow / Keras
 
-Data Visualization & BI
+**Data Visualization & BI**
 
 Matplotlib
 
@@ -42,7 +43,7 @@ Seaborn
 
 Google Looker Studio
 
-Tools & Workflow
+**Tools & Workflow**
 
 Jupyter Notebook
 
@@ -52,20 +53,20 @@ Streamlit
 
 Git & GitHub
 
-📂 Selected Projects
-🌱 TUMBUH – Machine Learning Decision Support System
+**📂 Selected Projects**
+**🌱 TUMBUH – Machine Learning Decision Support System**
 
 Developed a predictive modeling system that provides data-driven recommendations using supervised learning techniques.
 
-📊 Sentiment Analysis on Google Play Store Reviews
+**📊 Sentiment Analysis on Google Play Store Reviews**
 
 Built an NLP classification pipeline using TF-IDF and machine learning algorithms to analyze customer sentiment patterns.
 
-🍎 Fruit Quality Image Classification
+**🍎 Fruit Quality Image Classification**
 
 Implemented a CNN-based deep learning model to classify image data and evaluate product quality.
 
-📈 Currently Developing
+**📈 Currently Developing**
 
 End-to-end machine learning workflows
 
@@ -75,10 +76,10 @@ Data storytelling & visualization skills
 
 Production-ready ML model deployment
 
-🎯 Career Objective
+**🎯 Career Objective**
 
 To grow as a Data Scientist who can bridge data, business understanding, and machine learning to generate measurable impact across industries.
 
-📫 Let’s connect:
+**📫 Let’s connect:**
 LinkedIn:
 https://www.linkedin.com/in/malinny-debra-03555536b/
