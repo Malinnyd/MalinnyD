@@ -24,27 +24,31 @@ Programming & Data Processing
 
 Python
 
+SQL (PostgreSQL)
+
 Pandas, NumPy
 
-Machine Learning & Modeling
+Machine Learning
 
 Scikit-learn
 
 TensorFlow / Keras
 
-Data Visualization
+Data Visualization & BI
 
 Matplotlib
 
 Seaborn
 
-Tools & Deployment
+Google Looker Studio
 
-Streamlit
+Tools & Workflow
 
 Jupyter Notebook
 
 Google Colab
+
+Streamlit
 
 Git & GitHub
 
