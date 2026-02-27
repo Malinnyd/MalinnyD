@@ -20,7 +20,7 @@ Applied AI Solutions
 
 🛠 Tech Stack
 
-Programming & Data Processing
+**Programming & Data Processing**
 
 Python
 
